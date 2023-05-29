@@ -24,7 +24,7 @@ body:
     attributes:
       label: 友链地址
       description: 请输入您的友链页面地址。
-      placeholder: "如: https://xaoxuu.com/friends/"
+      placeholder: "如: https://Yuanzidan081.github.io/friends/"
     validations:
       required: true
   - type: input
@@ -32,4 +32,4 @@ body:
     attributes:
       label: 友链仓库（可选）
       description: 如果您使用 issue 作为友链源，请附上 issue 仓库链接。
-      placeholder: "如: https://github.com/xaoxuu/friends/"
+      placeholder: "如: https://Yuanzidan081.github.io/friends/"
