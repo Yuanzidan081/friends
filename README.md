@@ -1,6 +1,6 @@
 # 友链数据源
 
-根据https://xaoxuu.com/friends/进行修改
+根据 https://xaoxuu.com/friends/ 进行修改
 
 
 ## 如何添加
