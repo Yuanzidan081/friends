@@ -1,4 +1,4 @@
-# 友链数据源
+## 说明
 
 根据 https://xaoxuu.com/friends/ 进行修改
 
