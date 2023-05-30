@@ -1,6 +1,7 @@
 ## 说明
 
 根据xaoxuu的Github项目进行修改，项目链接：https://github.com/xaoxuu/friends 
+
 xaoxuu的友链展示页面：https://xaoxuu.com/friends/ 
 
 
