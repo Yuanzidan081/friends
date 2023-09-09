@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "鳄鱼的博客",
+      "url": "https://blog.crocodilezs.top",
+      "avatar": "https://imgurlcrcz.oss-cn-hangzhou.aliyuncs.com/img/202212282200219.png",
+      "screenshot": "https://imgurlcrcz.oss-cn-hangzhou.aliyuncs.com/img/snapshot-blog.png",
+      "description": ""
+    },
+    {
+      "title": "Fivyex's Blog",
+      "url": "https://fivyex.com/",
+      "avatar": "https://pic4.zhimg.com/80/v2-362d3d4d4d560634f6230b4119a0983c.png",
+      "screenshot": "",
+      "description": "Good will from Philly!"
+    },
+    {
+      "title": "修曦",
+      "url": "https://xiuxi1.github.io/",
+      "avatar": "https://pic4.zhimg.com/80/v2-6094714526c2d16d1ccdfb10a3e702b0.png",
+      "screenshot": "",
+      "description": "心如花木，向光而生"
+    }
+  ]
+}
